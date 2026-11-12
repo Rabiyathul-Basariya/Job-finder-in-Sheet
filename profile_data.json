@@ -1,0 +1,104 @@
+{
+  "personal_info": {
+    "name": "Rabiyathul Basariya B",
+    "location": "Bengaluru, India (Open to Remote)",
+    "phone": "+91 6379946980",
+    "email": "rabiya1828@gmail.com",
+    "linkedin": "https://linkedin.com",
+    "portfolio": "Portfolio",
+    "target_roles": [
+      "Associate Product Manager (APM)",
+      "Product Manager (PM)",
+      "Business Analyst (BA)",
+      "Product Analyst"
+    ]
+  },
+  "value_propositions": {
+    "APM": "3 years of experience driving 0-to-1 product improvements, translating customer voice into specs/PRDs, building functional AI agents, and improving conversion/retention metrics.",
+    "PM": "Product strategist with deep expertise in Agentic AI workflows, LLM benchmarking, PRD creation, backlog prioritization, and cross-functional execution across healthcare and B2B SaaS.",
+    "BA": "Analyst with proven track record in requirement elicitation, SQL, user journeys, KPI dashboards, and increasing IVR visits by 20% by analyzing 2 years of user data."
+  },
+  "work_experience": [
+    {
+      "role": "Business Analyst",
+      "company": "SBNA Software Solution",
+      "period": "07/2024 – Present",
+      "highlights": [
+        "Led product development of Healthcare claims processing web application, managing requirements, workflows, and feature delivery.",
+        "Increased IVR visits by 20% within 6 months by analysing 2 years of user data, identifying friction points, and optimizing user flows.",
+        "Designed dashboards, reports, and defined key KPIs using user research and specs to support development.",
+        "Managed SDLC: gathered requirements, wrote PRDs and Jira tickets, prioritized backlog, led sprint planning, and coordinated cross-functional teams.",
+        "Conducted product demos, created marketing assets, and planned prospect outreach/pre-sales."
+      ]
+    },
+    {
+      "role": "Market Research Executive",
+      "company": "Apple Holidays",
+      "period": "11/2022 – 05/2023",
+      "highlights": [
+        "Managed B2B client relationships and coordinated customized operations.",
+        "Analysed client data to understand customer preferences and optimize service offerings.",
+        "Supported marketing campaigns to increase customer engagement and conversion rates."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Voice of Customer Copilot",
+      "type": "Self-driven AI Project",
+      "focus": "LLM-powered pain point extractor from English + Hinglish User Feedback",
+      "metrics": "Clustered 8,000+ Play Store reviews (Swiggy, IRCTC, PhonePe) using Python + Gemini 3.1 Flash Lite."
+    },
+    {
+      "name": "Order Status Agent",
+      "type": "AI/LLM-based Customer Support Agent",
+      "focus": "Multi-agent workflow design, order tracking, ambiguity resolution, and escalation logic",
+      "metrics": "Benchmarked Gemini 3.8 Flash vs GPT-4o-mini; evaluated latency, accuracy, escalation precision."
+    },
+    {
+      "name": "E-commerce Platform - Reducing Returns",
+      "type": "Product Case Study",
+      "focus": "Return rate reduction (RTO) and post-purchase customer experience improvement",
+      "metrics": "Conducted 25+ user interviews and 100+ surveys; proposed real-image verification and mid-delivery engagement."
+    },
+    {
+      "name": "Hydra Desk",
+      "type": "Desktop Productivity App",
+      "focus": "0-to-1 hydration reminder experience for desk professionals",
+      "metrics": "Built and shipped Windows app end-to-end; acquired 15+ organic downloads."
+    }
+  ],
+  "skills": {
+    "product": [
+      "Product Management", "Product Discovery", "Problem Definition", "User Empathy",
+      "PRDs", "User Stories", "Roadmap Planning", "Prioritisation", "Decision-Making", "Go-to-Market (GTM)", "A/B Testing"
+    ],
+    "ai_agents": [
+      "Agentic Workflows", "Multi-Agent Systems", "RAG", "STT", "TTS", "Function Calling",
+      "MCP", "AI Evals", "Human-in-the-Loop (HITL)", "Token Economics", "Model Routing"
+    ],
+    "analytics_tech": [
+      "SQL", "Mixpanel", "Python", "Prompt Engineering", "APIs", "Vector Databases",
+      "Jira", "Agile/Scrum", "Figma", "Wireframing", "Manual Testing (Smoke/Sanity)"
+    ]
+  },
+  "education": [
+    {
+      "degree": "MBA – Business Analyst & Marketing (CGPA 9.03)",
+      "institution": "Adithya School of Business Management, Anna University",
+      "period": "06/2023 – 05/2025"
+    },
+    {
+      "degree": "B.Com with Computer Application",
+      "institution": "Lady Doak College, Madurai Kamaraj University",
+      "period": "06/2018 – 05/2021"
+    }
+  ],
+  "certifications": [
+    "IBM – Prompt Engineering",
+    "Google AI Essentials",
+    "Introduction to LLMs",
+    "Introduction to Generative AI",
+    "AI for Product Management"
+  ]
+}

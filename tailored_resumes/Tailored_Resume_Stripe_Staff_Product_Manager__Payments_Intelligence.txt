@@ -1,0 +1,44 @@
+================================================================================
+RABIYATHUL BASARIYA B
++91 6379946980 | rabiya1828@gmail.com | Bengaluru, India (Open to Remote)
+Target Role: Staff Product Manager, Payments Intelligence at Stripe
+Target Keywords Matched: rag, roadmap, analytics
+================================================================================
+
+PROFESSIONAL SUMMARY
+Product Analyst with 3 years of experience driving 0-to-1 product discovery, 
+requirement specs (PRDs), and metric-driven execution. Proven track record in 
+leveraging SQL, user analytics, and Agentic AI workflows to optimize funnels 
+(boosted IVR visits by 20% in 6 months at SBNA) and cluster 8,000+ customer reviews 
+using Gemini LLMs. Tailored for high-impact execution as Staff Product Manager, Payments Intelligence at Stripe.
+
+CORE COMPETENCIES & KEYWORDS
+• Product: PRDs, User Stories, Roadmapping, Backlog Grooming, Jira, Agile/Scrum, A/B Testing
+• AI & Analytics: Agentic AI, Multi-Agent Systems, Gemini LLMs, SQL, Mixpanel, Prompt Engineering
+• Business Analysis: Requirements Gathering, KPI Dashboards, User Journeys, Process Mapping
+
+PROFESSIONAL EXPERIENCE
+Business Analyst – SBNA Software Solution (07/2024 – Present)
+• Led end-to-end SDLC of a Healthcare claims processing web application across requirements, workflows, and release cycles.
+• Lifted IVR visits by 20% within 6 months by analyzing 2 years of user behavioral data to eliminate friction drop-offs.
+• Authored comprehensive PRDs, Jira epics, user stories, and acceptance criteria; led cross-functional sprint planning.
+• Designed executive dashboards, tracked product KPIs, and conducted live client demos and pre-sales presentations.
+
+Market Research Executive – Apple Holidays (11/2022 – 05/2023)
+• Managed B2B client relationships, analyzed customer preference data, and supported product promotion initiatives.
+
+NOTABLE AI & PRODUCT PROJECTS
+1. Voice of Customer Copilot (AI/LLM Project)
+   - Built an LLM pipeline clustering 8,000+ Play Store reviews (Swiggy, IRCTC, PhonePe) using Python + Gemini Flash Lite.
+2. Order Status Agent (Customer Support Agent)
+   - Built a multi-agent order tracking bot with ambiguity resolution, failure-mode mapping, and latency benchmarking.
+3. E-commerce Platform - Reducing Returns (Product Case Study)
+   - Conducted 25+ user interviews & 100+ surveys to reduce post-order friction and RTO drop-offs.
+4. Hydra Desk (0-to-1 Productivity App)
+   - Shipped Windows app end-to-end; organic user adoption.
+
+EDUCATION & CERTIFICATIONS
+• MBA – Business Analytics & Marketing (CGPA 9.03), Anna University (2023 – 2025)
+• B.Com with Computer Application, Lady Doak College (2018 – 2021)
+• Certifications: IBM Prompt Engineering, Google AI Essentials, Intro to LLMs, AI for Product Management
+================================================================================

@@ -1,0 +1,32 @@
+name: 24/7 Autonomous Job Hunter & Outreach Agent
+
+on:
+  schedule:
+    # Runs every hour, 24/7
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  run-job-hunter:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Run Scan & Sync Cycle
+        run: |
+          python autonomous_agent_24x7.py --once
+
+      - name: Commit & Push Updated Tracker State
+        run: |
+          git config --global user.name 'JobHunterBot'
+          git config --global user.email 'bot@jobhunter.local'
+          git add seen_jobs.json tailored_resumes/ job_applications_tracker.csv
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated 24/7 Job Sync [skip ci]" && git push)
