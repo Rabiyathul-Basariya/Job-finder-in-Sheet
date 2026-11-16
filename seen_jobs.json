@@ -94,5 +94,11 @@
     "company": "Stripe",
     "role": "Staff Product Manager, Sail Core",
     "tailored_resume": "C:\\Users\\rabiy\\OneDrive\\Documents\\Downloads\\Test\\tailored_resumes\\Tailored_Resume_Stripe_Staff_Product_Manager__Sail_Core.txt"
+  },
+  "Stripe_Product Manager, Finance Operations": {
+    "discovered_at": "2026-11-16",
+    "company": "Stripe",
+    "role": "Product Manager, Finance Operations",
+    "tailored_resume": "/home/runner/work/Job-finder-in-Sheet/Job-finder-in-Sheet/tailored_resumes/Tailored_Resume_Stripe_Product_Manager__Finance_Operations.txt"
   }
 }
