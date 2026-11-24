@@ -106,5 +106,17 @@
     "company": "Stripe",
     "role": "Product Manager, Infrastructure",
     "tailored_resume": "/home/runner/work/Job-finder-in-Sheet/Job-finder-in-Sheet/tailored_resumes/Tailored_Resume_Stripe_Product_Manager__Infrastructure.txt"
+  },
+  "Stripe_Product Manager, Stripe Business Network": {
+    "discovered_at": "2026-11-24",
+    "company": "Stripe",
+    "role": "Product Manager, Stripe Business Network",
+    "tailored_resume": "/home/runner/work/Job-finder-in-Sheet/Job-finder-in-Sheet/tailored_resumes/Tailored_Resume_Stripe_Product_Manager__Stripe_Business_Network.txt"
+  },
+  "Stripe_Staff Product Manager, GenAI and Agent Foundations": {
+    "discovered_at": "2026-11-24",
+    "company": "Stripe",
+    "role": "Staff Product Manager, GenAI and Agent Foundations",
+    "tailored_resume": "/home/runner/work/Job-finder-in-Sheet/Job-finder-in-Sheet/tailored_resumes/Tailored_Resume_Stripe_Staff_Product_Manager__GenAI_and_Agent_Foundations.txt"
   }
 }
